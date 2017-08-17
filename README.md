@@ -1,4 +1,4 @@
-# pandas-parallel - rewrite of pandas functions to take advantage of multiple
+# pandas-parallel - rewrite of pandas functions to take advantage of multiple  
 # cores
 In progress. Note that the `multiprocessing` module uses `pickle` and refuses to
 serialise lambda functions (or functions outside the global scope) so you'll
