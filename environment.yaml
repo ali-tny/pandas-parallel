@@ -1,0 +1,8 @@
+# conda environments:
+#
+explore                  /Users/aliteeney/miniconda3/envs/explore
+nlp                      /Users/aliteeney/miniconda3/envs/nlp
+panda-parallel        *  /Users/aliteeney/miniconda3/envs/panda-parallel
+tf-rnn                   /Users/aliteeney/miniconda3/envs/tf-rnn
+root                     /Users/aliteeney/miniconda3
+
